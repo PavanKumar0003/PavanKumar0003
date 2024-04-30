@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PavanKumar0003
-- 👀 I’m interested in --> ELECTORNICS
+- 👀 I’m interested in --> ELECTORNICS and Robotics
 - 🌱 I’m currently learning --> EMBEDDED Linux and ROS2 -> Robotics
 - 📫 To reach me --> pavankumar14000@gmail.com
 
